@@ -1,3 +1,5 @@
-alert ('I hate school');
-alert(':('); 
-alert ('Work hard ');
+
+alert('JUST A TEST DOES IT WORK ');
+
+
+alert ('C');
